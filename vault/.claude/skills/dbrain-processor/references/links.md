@@ -39,7 +39,7 @@ Find related entries.
 Check if thought relates to goals:
 
 ```
-Read goals/1-yearly-2025.md
+Read goals/1-yearly-2026.md
 Find matching goal areas
 ```
 
@@ -51,7 +51,7 @@ In the thought file, add:
 ```yaml
 related:
   - "[[thoughts/ideas/2024-12-15-voice-agents.md]]"
-  - "[[goals/1-yearly-2025#AI Development]]"
+  - "[[goals/1-yearly-2024#AI Development]]"
 ```
 
 **In content (inline):**
@@ -99,7 +99,7 @@ In related notes, add backlink to new note if highly relevant.
 
 ### Link to Goals
 ```markdown
-[[goals/1-yearly-2025#Career & Business]]
+[[goals/1-yearly-2026#Career & Business]]
 [[goals/3-weekly]] — ONE Big Thing
 ```
 
@@ -126,13 +126,13 @@ New thought: "Новый инструмент X можно использова�
    - MOC-learnings.md has relevant section
 
 3. **Goals:**
-   - 1-yearly-2025.md has matching goal
+   - 1-yearly-2026.md has matching goal
 
 4. **Create links:**
    ```yaml
    related:
      - "[[thoughts/ideas/related-note.md]]"
-     - "[[goals/1-yearly-2025#Your Goal]]"
+     - "[[goals/1-yearly-2026#Your Goal]]"
    ```
 
 5. **Update MOC-learnings.md:**
