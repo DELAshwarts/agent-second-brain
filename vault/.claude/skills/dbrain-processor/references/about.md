@@ -19,25 +19,25 @@
 
 ## Core Identity
 
-**[Your Name], [Age]** — [Your Role/Position]
+**[Мария Шварц], [64]** — [директор НКО]
 
-- [Your company/occupation]
-- [Key clients or projects]
-- [Years of experience]
-- [Primary role description]
+- [Фонд «Ресурсный центр еврейского просвещения» (Санкт-Петербург)]
+- [«Фундамент для педагога»: Августовская педагогическая конференция, библиотека методических материалов "Хавура", консультации по ИИ в НКО; «Иудаика для каждого»: Фестиваль еврейских знаний, Конференция «Бама», «Пижамная библиотечка»; «Иудаика для детей и молодежи»: дистанционная олимпиада по иудаике "Эрудаика", Три мудреца, Карапульки]
+- [30+ лет в просветительских, культурных и общественных проектах]
+- [стратег, руководитель, архитектор смыслов и процессов, интегратор людей, идей и ресурсов]
 
 ## Primary Operating Mode
 
-- [How you think and work]
-- [Your decision-making style]
-- [What you value in work]
-- [Communication preferences]
+- [Думаю системно, работаю через декомпозицию и структуру]
+- [Решения принимаю на стыке смысла, реализуемости и ресурсов]
+- [Ценю осмысленность, честность, справедливость, проактивность]
+- [Предпочитаю прямую, ясную коммуникацию без пафоса и «воды»]
 
 ## Strategic Focus
 
-1. [Primary goal]
-2. [Secondary goal]
-3. [Third goal]
+1. [Усиление институциональной устойчивости фонда]
+2. [Расширение партнерств за пределы еврейского сообщества]
+3. [Встраивание ИИ и цифровых инструментов в управление и проекты]
 
 ## Work Domains
 
@@ -45,49 +45,49 @@ Key contexts for classifying notes:
 
 | Domain | Examples |
 |--------|----------|
-| **Work** | projects, tasks, meetings, deadlines |
-| **Learning** | courses, books, insights, skills |
-| **Ideas** | product ideas, improvements, innovations |
-| **Personal** | health, family, hobbies, routines |
+| **Work** | проекты, заявки, отчёты, договоры, команда, финансы|
+| **Learning** | ИИ, книги, идеи, английский, управление |
+| **Ideas** | новые форматы, партнерства, инновации |
+| **Personal** | здоровье, личная эффективность, дом, семья, друзья |
 
 ## Personal Context
 
-- Family: [situation]
-- Interests: [hobbies]
-- Work style: [morning person, etc.]
-- Languages: [languages you use]
+- Family: [замужем, трое взрослых детей]
+- Interests: [просвещение взрослых, культура, чтение, ИИ]
+- Work style: [стратегический «жаворонок», пик — утро и первая половина дня]
+- Languages: [русский (основной), английский (иногда)]
 
 ## Goals Hierarchy
 
-1. [Primary life goal]
-2. [Secondary goal]
-3. [Third goal]
-4. [Fourth goal]
+1. [Создать устойчивую, уважаемую просветительскую институци]
+2. [Передать культуру еврейских знаний широкой аудитории]
+3. [Сформировать сильную автономную команду]
+4. [Освободить свое время от операционки]
 
 ## Decision Filters
 
 When evaluating ideas and tasks:
-- [Question 1]
-- [Question 2]
-- [Question 3]
-- [Question 4]
+- [Соответствует ли это миссии фонда?]
+- [Можно ли это реализовать с текущими ресурсами?]
+- [Есть ли измеримый результат?]
+- [Можно ли упростить без потери смысла?]
 
 ## Notes Processing Preferences
 
 ### Language and Style
-- [Your language preferences]
-- [Terminology preferences]
-- [Formatting preferences]
+- [русский]
+- [управленческие, проектные, без канцелярита и пафоса]
+- [списки, таблицы, чёткие блоки, чек-листы]
 
 ### Structure
 Preferred format:
 ```
-Context → Insight → Implication → Next Action
+Контекст → Суть → Последствия → Следующий шаг
 ```
 
 ### Prioritization
-- **Urgent**: [what counts as urgent] → p1-p2
-- **Strategic**: [what counts as strategic] → p3-p4
+- **Urgent**: [дедлайны проектов, обязательства перед партнёрами] → p1-p2
+- **Strategic**: [развитие команды, ИИ-интеграции, масштабирование] → p3-p4
 
 ## Anti-Patterns (AVOID)
 

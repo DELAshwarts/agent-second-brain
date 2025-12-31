@@ -20,7 +20,7 @@ Based on user's work context (see [ABOUT.md](ABOUT.md)):
 Брифы, стратегии, креатив, кампании, KPI, предложения
 
 <!-- Добавьте имена ваших клиентов через запятую -->
-**Keywords:** [Your Client Names], клиент, бриф, презентация, дедлайн, KPI
+**Keywords:** [Джойнт, Адаин Ло, РЕК Москва, РЕК СПб, Сохнут, Голландцы, доноры, партнеры], клиент, бриф, презентация, дедлайн, KPI
 
 **→ Category:** task (p1-p2) → Todoist
 
@@ -42,15 +42,15 @@ Based on user's work context (see [ABOUT.md](ABOUT.md)):
 Команда, процессы, автоматизация, найм, управление, финансы
 
 <!-- Замените [Your Company] на название вашей компании/проекта -->
-**Keywords:** команда, найм, процесс, HR, финансы, [Your Company]
+**Keywords:** команда, найм, процесс, HR, финансы, [Фонд "Ресурсный центр еврейского просвещения"]
 
 **→ Category:** task или project (depends on urgency)
 
 ### Content
-Посты, идеи, тезисы для Telegram и LinkedIn
+Посты, идеи, тезисы для Telegram 
 
 <!-- Замените [@your_channel] на ваш Telegram-канал или удалите если не нужно -->
-**Keywords:** пост, [@your_channel], LinkedIn, контент, тезис, статья
+**Keywords:** пост, [@havura_rc], контент, тезис, статья
 
 **→ Category:** idea → thoughts/ideas/ или task если с дедлайном
 
@@ -157,7 +157,7 @@ tags: [tag1, tag2]
 
 ## Implication
 <!-- Замените [Your Company] на название вашей компании -->
-[Что это значит для [Your Company]/продукта/стратегии]
+[Что это значит для [Фонд "Ресурсный центр еврейского просвещения"]/продукта/стратегии]
 
 ## Next Action
 [Конкретный шаг — не абстрактный]
@@ -185,9 +185,36 @@ MOC/MOC-{category}s.md
 
 Group by domain when relevant:
 ```markdown
-## AI & Tech
-- [[2024-12-16-claude-mcp-setup]] - MCP integration
+## AI & Automation
+- [[ai-grantwriter]] — ИИ-грантрайтер для заявок и отчетов
+- [[ai-project-manager]] — управление сроками, рисками и задачами команды
+- [[automation-docs]] — договоры, согласия, отчёты, шаблоны
 
-## Product
-- [[2024-12-16-saas-pricing-model]] - Pricing research
+## Strategy & Governance
+- [[strategy-2025-2030]] — стратегические цели фонда
+- [[decision-filters]] — управленческие фильтры и критерии выбора
+- [[governance-model]] — роли, ответственность, контроль исполнения
+
+## Projects & Events
+- [[project-august-conference]] — Августовская конференция для педагогов еврейского образования
+- [[project-bama]] — конференция «Бама»
+- [[project-festival-knowledge]] — Фестиваль еврейских знаний / День еврейских знаний
+- [[project-erudaika]] — Эрудаика (игры, олимпиады, форматы)
+- [[fundament-pedagogue]] — «Фундамент для педагога»
+- [[judaica-for-all]] — «Иудаика для каждого»
+
+## Legal & Compliance
+- [[pd-policy]] — персональные данные
+- [[contracts-templates]] — договоры, акты, приложения, ТЗ
+- [[grant-requirements]] — требования фондов и отчётность 
+
+## Education & Content
+- [[havura-library]] — библиотека методических материалов «Хавура» (архитектура, пополнение, редактура)
+- [[pajama-library]] — «Пижамная библиотечка» (контент, партнёры, логистика, метрики)
+- [[content-standards]] — стиль, тон, методика, редакционные правила
+
+## Operations & Personal Effectiveness
+- [[weekly-review]] — еженедельный обзор
+- [[anti-chaos]] — правила против авралов
+- [[energy-management]] — управление нагрузкой и восстановление
 ```
